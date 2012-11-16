@@ -25,25 +25,23 @@ Here’s a heads up on some of the things you’ve probably ignored so far, but 
 
 5. Ask around about any good part-time accountants that can help you when you eventually get to “later”.
 
-6. When paying vendors for business services, use Paypal. At the end of the year, Paypal will take care of sending your vendors tax-related forms such as 1099-K, so you won't have to worry about additional things to follow up on near tax season.
+6. What’s the company strategy around patents, or IP in general? Whatever you decide is fine, but you should be conscious about it. Apparently there was a startup called “Bing” that essentially failed but made quite a bit of money on the trademark.
 
-7. What’s the company strategy around patents, or IP in general? Whatever you decide is fine, but you should be conscious about it. Apparently there was a startup called “Bing” that essentially failed but made quite a bit of money on the trademark.
+7. Be aware that pictures and other things you write down (including emails) can be used against you for legal/tax purposes. If you’re living out of your office or visa-versa, you didn’t tell me, and you don’t have any pictures. It can be dealt with, but you’d rather not.
 
-8. Be aware that pictures and other things you write down (including emails) can be used against you for legal/tax purposes. If you’re living out of your office or visa-versa, you didn’t tell me, and you don’t have any pictures. It can be dealt with, but you’d rather not.
+8. If you have investors, many times they are entitled to quarterly reports on financials, etc. Put those dates in your calendar and follow through.
 
-9. If you have investors, many times they are entitled to quarterly reports on financials, etc. Put those dates in your calendar and follow through.
+9. Get a lawyer. There are hundreds of little regulations that may or may not apply to you and it's impossible to keep track of them all yourself. The best lawyers will agree to deferred compensation if you're persuasive enough. They protect you now, you pay them later.
 
-10. Get a lawyer. There are hundreds of little regulations that may or may not apply to you and it's impossible to keep track of them all yourself. The best lawyers will agree to deferred compensation if you're persuasive enough. They protect you now, you pay them later.
+10. Get your own office. Co-working spaces are fun, but they often make it impossible to build your own company culture. You don't want to get shushed when you want to laugh loudly at that funny youtube video, or when you want to have a lively product debate.
 
-12. Get your own office. Co-working spaces are fun, but they often make it impossible to build your own company culture. You don't want to get shushed when you want to laugh loudly at that funny youtube video, or when you want to have a lively product debate.
+11. Start a relationship with your banker. Having someone at your bank who knows you can be invaluable. Startups have to move at lightning speed, and you don't want a debit card hold (they happen all the time) to kill a sale, investment, new hire.
 
-12. Start a relationship with your banker. Having someone at your bank who knows you can be invaluable. Startups have to move at lightning speed, and you don't want a debit card hold (they happen all the time) to kill a sale, investment, new hire.
+12. Get a company health insurance policy. There are certain things you just don't want your teammates thinking about, and health insurance is one of them. Have one person on the team figure this out for everyone, and make it a perk.
 
-13. Get a company health insurance policy. There are certain things you just don't want your teammates thinking about, and health insurance is one of them. Have one person on the team figure this out for everyone, and make it a perk.
+13. You've dealt with your [83b Election](http://www.startupcompanylawyer.com/2008/02/15/what-is-an-83b-election/) already right? If not, call a lawyer and discuss your options. You may be better off dissolving and reforming the company.
 
-14. You've dealt with your [83b Election](http://www.startupcompanylawyer.com/2008/02/15/what-is-an-83b-election/) already right? If not, call a lawyer and discuss your options. You may be better off dissolving and reforming the company.
-
-15. As the number of people in the company increases, define an expense policy of what can be expensed to the company. While this may seem overly corporate, it helps make sure everyone is clear and isn’t stressed about every single transaction. How you define this policy is up to you - some companies define a broad expense policy and let employees make judgment calls on whether an item fits the category. This makes the employees feel like the company will take care of the things they need, but since this policy is based on trust, and can go south without the right company culture in place.
+14. As the number of people in the company increases, define an expense policy of what can be expensed to the company. While this may seem overly corporate, it helps make sure everyone is clear and isn’t stressed about every single transaction. How you define this policy is up to you - some companies define a broad expense policy and let employees make judgment calls on whether an item fits the category. This makes the employees feel like the company will take care of the things they need, but since this policy is based on trust, and can go south without the right company culture in place.
 
 As mentioned above, pull requests are welcome. Note that this is not official legal, tax, or business advice, we are not lawyers/CPAs, don't sue us.
 
