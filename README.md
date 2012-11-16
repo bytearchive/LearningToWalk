@@ -41,7 +41,7 @@ Here’s a heads up on some of the things you’ve probably ignored so far, but 
 
 13. Get a company health insurance policy. There are certain things you just don't want your teammates thinking about, and health insurance is one of them. Have one person on the team figure this out for everyone, and make it a perk.
 
-14. You've dealt with your [83b Election](http://www.startupcompanylawyer.com/2008/02/15/what-is-an-83b-election/) already right? If not, call a lawyer and discuss your options. You may be better of dissolving and reforming the company.
+14. You've dealt with your [83b Election](http://www.startupcompanylawyer.com/2008/02/15/what-is-an-83b-election/) already right? If not, call a lawyer and discuss your options. You may be better off dissolving and reforming the company.
 
 15. As the number of people in the company increases, define an expense policy of what can be expensed to the company. While this may seem overly corporate, it helps make sure everyone is clear and isn’t stressed about every single transaction. How you define this policy is up to you - some companies define a broad expense policy and let employees make judgment calls on whether an item fits the category. This makes the employees feel like the company will take care of the things they need, but since this policy is based on trust, and can go south without the right company culture in place.
 
