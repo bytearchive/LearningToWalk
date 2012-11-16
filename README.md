@@ -19,11 +19,11 @@ Here’s a heads up on some of the things you’ve probably ignored so far, but 
 
    2. That there are no lines of code written by people who didn’t explicitly transfer ownership to the company (usually involves paper). It seems silly, but if someone can argue that those 10 lines they wrote when they came over for an interview resulted in 0.1% of the company’s success, you’ll kick yourself. Draft up a quick document, pay them a fair amount for the work, and keep the signature.
 
-3. If you’re hiring people, you should have an Employee Handbook. There are legal reasons, but it’s also a good forcing function for you and your cofounders to make decisions on things you haven’t had to yet, i.e. What is your vacation policy? Are weekends off? Is swearing in the office ok? What can be expensed to the company? If you have employees agree to the handbook it can also help you not get sued for wrongful termination
+3. If you’re hiring people, you should have an Employee Handbook. There are legal reasons, but it’s also a good forcing function for you and your cofounders to make decisions on things you haven’t had to yet, i.e. What is your vacation policy? Are weekends off? Is swearing in the office ok? What can be expensed to the company? If you have employees agree to the handbook it can also help you not get sued for wrongful termination.
 
-4. Speaking of expensing things, don’t use cash for anything. Your (eventual) accountant will be very upset at you, and the IRS likely will as well. Best is to use a company credit card, next a company check, next a personal card/check. And always keep receipts, either digitally or in a drawer for “later”
+4. Speaking of expensing things, don’t use cash for anything. Your (eventual) accountant will be very upset at you, and the IRS likely will as well. Best is to use a company credit card, next a company check, next a personal card/check. And always keep receipts, either digitally or in a drawer for “later”.
 
-5. Ask around about any good part-time accountants that can help you when you eventually get to “later”
+5. Ask around about any good part-time accountants that can help you when you eventually get to “later”.
 
 6. When paying vendors for business services, use Paypal. At the end of the year, Paypal will take care of sending your vendors tax-related forms such as 1099-K, so you won't have to worry about additional things to follow up on near tax season.
 
@@ -41,11 +41,11 @@ Here’s a heads up on some of the things you’ve probably ignored so far, but 
 
 13. Get a company health insurance policy. There are certain things you just don't want your teammates thinking about, and health insurance is one of them. Have one person on the team figure this out for everyone, and make it a perk.
 
-14. You've dealt with your [83b Election](http://www.startupcompanylawyer.com/2008/02/15/what-is-an-83b-election/) already right? If not, call a laywer and discuss your options. You may be better of dissolving and reforming the company.
+14. You've dealt with your [83b Election](http://www.startupcompanylawyer.com/2008/02/15/what-is-an-83b-election/) already right? If not, call a lawyer and discuss your options. You may be better of dissolving and reforming the company.
 
 15. As the number of people in the company increases, define an expense policy of what can be expensed to the company. While this may seem overly corporate, it helps make sure everyone is clear and isn’t stressed about every single transaction. How you define this policy is up to you - some companies define a broad expense policy and let employees make judgment calls on whether an item fits the category. This makes the employees feel like the company will take care of the things they need, but since this policy is based on trust, and can go south without the right company culture in place.
 
-As mentioned above, pull requests are welcome. Note that this is not official legal, tax, or business advice, we are not laywers/CPAs, don't sue us.
+As mentioned above, pull requests are welcome. Note that this is not official legal, tax, or business advice, we are not lawyers/CPAs, don't sue us.
 
 Contributors:
 * [@brettcvz](http://github.com/brettcvz) of [Filepicker.io](http://www.filepicker.io)
