@@ -43,6 +43,11 @@ Here’s a heads up on some of the things you’ve probably ignored so far, but 
 
 14. As the number of people in the company increases, define an expense policy of what can be expensed to the company. While this may seem overly corporate, it helps make sure everyone is clear and isn’t stressed about every single transaction. How you define this policy is up to you - some companies define a broad expense policy and let employees make judgment calls on whether an item fits the category. This makes the employees feel like the company will take care of the things they need, but since this policy is based on trust, and can go south without the right company culture in place.
 
+## Startup philosophy:
+
+1. _Don't spend all your time working on your work._ You will burn out and suck. Maybe you'll even [die](http://www.paulgraham.com/die.html). Don't. Having mandated 'non-work' time is definitely a hard thing to do. It's much easier to keep your heads down and only come up for air when you absolutely have to. But your creativity will suffer, your team will be less happy, and your startup will not be as awesome as it could be. This is also an important exercise in avoiding the seduction of short-termism and investing in the long term. Implementing this rule is fun; some people institute a version of Google's [20% rule](http://googleblog.blogspot.com/2006/05/googles-20-percent-time-in-action.html), others have weekly do-whatever-you-want hackathons, others go on weekly sports retreats. The specifics don't matter, but the principle does. Try it and watch your team blossom.
+
+
 As mentioned above, pull requests are welcome. Note that this is not official legal, tax, or business advice, we are not lawyers/CPAs, don't sue us.
 
 Contributors:
